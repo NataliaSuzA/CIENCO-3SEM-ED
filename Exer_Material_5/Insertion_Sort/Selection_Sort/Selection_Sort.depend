@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683933516 source:c:\users\user\documents\natália\3-sem\estrutura de dados\exer_material_5\selection_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
