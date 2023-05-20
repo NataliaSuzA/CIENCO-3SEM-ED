@@ -18,7 +18,7 @@ int main()
     roupas.push("camiseta branca");
     roupas.push("camiseta amarela");
     roupas.push("calca branca");
-    roupas.push("bermuda preta");
+    roupas.push("bermudaroupas.size() preta");
 
     //size motra o tamanho da pilha
     cout << "Tamanho da Pilha: " << roupas.size() << endl;
