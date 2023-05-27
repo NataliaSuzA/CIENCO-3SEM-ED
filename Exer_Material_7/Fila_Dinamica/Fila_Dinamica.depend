@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685143508 source:c:\users\user\documents\natália\3-sem\estrutura de dados\exer_material_7\fila_dinamica\main.cpp
+	<iostream>
+	<queue>
+
