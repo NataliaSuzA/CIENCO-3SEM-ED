@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685756135 source:c:\users\user\onedrive\documentos\ciencia da computação\3 semestre\estrutura de dados\2 bimestre\aula 02 06\ex 1\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<string>
+
